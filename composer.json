@@ -1,5 +1,5 @@
 {
-    "name": "laravel-admin-ext/media-managers",
+    "name": "bear-ext-media-managers",
     "description": "Media manager for laravel",
     "type": "library",
     "keywords": ["laravel-admin", "media", "manager"],
